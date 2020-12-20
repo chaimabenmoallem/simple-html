@@ -1,0 +1,12 @@
+body {
+    padding-top: 40px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 600px;
+}
+
+.container .title {
+    text-align: center;
+}
